@@ -1,7 +1,7 @@
 # Stock Prediction Web Application - Python
 Python project 
 
-# Project Description - (Briefly)
+# Project Description
 
 The working structure of this program is basically stock market prediction which is the act of trying to determine the future value of company stock or other financial instrument traded on an exchange. 
 The application will be based on Machine Learning (ML) standards.
